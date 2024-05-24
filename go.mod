@@ -1,4 +1,4 @@
-module github.com/de/switch-st/wrongrepo
+module switch.github.com/de/switch-st/wrongrepo
 
 go 1.22.3
 
